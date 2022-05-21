@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/behrouz2115/class-component.git/static/css/main.073c9b0a.css",
+    "main.js": "/behrouz2115/class-component.git/static/js/main.efe36500.js",
+    "static/js/787.60235f71.chunk.js": "/behrouz2115/class-component.git/static/js/787.60235f71.chunk.js",
+    "static/media/logo.svg": "/behrouz2115/class-component.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/behrouz2115/class-component.git/index.html",
+    "main.073c9b0a.css.map": "/behrouz2115/class-component.git/static/css/main.073c9b0a.css.map",
+    "main.efe36500.js.map": "/behrouz2115/class-component.git/static/js/main.efe36500.js.map",
+    "787.60235f71.chunk.js.map": "/behrouz2115/class-component.git/static/js/787.60235f71.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.efe36500.js"
+  ]
+}
