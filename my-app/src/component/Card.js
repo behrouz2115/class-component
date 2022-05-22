@@ -32,7 +32,7 @@ class Card extends Component {
             <img src={image} alt={alart}/>
             {/* <h3>{name}</h3> */}
             <h3>
-                <Link to={`/products/${id}`}>{name}</Link>
+                <Link className={Style.link} to={`/products/${id}`}>{name}</Link>
             </h3>
             <p>{cost}{counter ? ` * ${counter}=${counter*Number(cost.split(" ")[0])} $`:""}</p>
             
