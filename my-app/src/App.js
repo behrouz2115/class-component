@@ -15,12 +15,12 @@ class App extends Component {
         
                   <Navbar/>
                   <Routes>
-                  <Route path="/" element={<LandingPage/>}/>
+                  <Route path="/*" element={<LandingPage/>}/>
                   <Route path="/products" element={<Products/>}/>
                   <Route path="/products/:id" element={<DetailsPage/>}/>
                   <Route path="/aboutus" element={<AboutUs/>}/> 
                   <Route path='/notfound' element={<NotFound/>}/>
-                  <Route path='/*' element={<Navigate to='/notfound'/>  }/>
+                  {/* <Route path='/*' element={<Navigate to='/notfound'/>  }/> */}
                   </Routes>
                   <Footer/>
       </div>
